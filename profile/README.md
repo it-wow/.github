@@ -17,8 +17,8 @@
 ## 公会主页（建设中）：
 
 - [x] [it-wow.github.io](https://it-wow.github.io)
-- [x] [itwow.cn（github.io的CNAME，可能比较慢）](http://itwow.cn/)
-- [x] [wow-it.cn（自己服务器，慢一点）](https://wow-it.cn)
+- [x] [itwow.cn](http://itwow.cn/)
+- [x] [wow-it.cn](https://wow-it.cn)
 
 - 公会主页代码（Hexo）：[it-wow/hexo](https://github.com/it-wow/hexo)
 - 公会主页发布：[it-wow.github.io](https://github.com/it-wow/it-wow.github.io)
