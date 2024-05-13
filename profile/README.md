@@ -17,7 +17,7 @@
 ## 公会主页（建设中）：
 
 - [x] [it-wow.github.io](https://it-wow.github.io)
-- [x] [itwow.cn](http://itwow.cn/)
+- [x] [itwow.cn](https://itwow.cn/)
 - [x] [wow-it.cn](https://wow-it.cn)
 
 - 公会主页代码（Hexo）：[it-wow/hexo](https://github.com/it-wow/hexo)
